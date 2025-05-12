@@ -8,7 +8,7 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tonin-rivory-1207b5172/)
 
-[![Email](https://img.shields.io/badge/Email-Send-orange?style=for-the-badge)](toninrvr@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Send-orange?style=for-the-badge)](mailto:toninrvr@hotmail.com)
 
 [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge)](https://drive.google.com/file/d/1gqAl2-LaRUMbqdy6qdS4bAozdzsyS2eJ/view?usp=sharing)
 
