@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Salut, moi c’est Tonin 👋</h1>
+  <h1>Hello, I'm Tonin 👋</h1>
   <p><strong>
   Data Scientist | AI & Data Enthusiast | Machine Learning Pipeline Builder | Python Developer | Big Data Explorer
   </strong></p>
 </div>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tonin-rivory-1207b5172/)          [![Email](https://img.shields.io/badge/Email-Send-orange?style=for-the-badge)](mailto:toninrvr@hotmail.com)        [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge)](https://drive.google.com/file/d/1gqAl2-LaRUMbqdy6qdS4bAozdzsyS2eJ/view?usp=sharing)        [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple?style=for-the-badge)](https://toninrvr.nicepage.io/#sec-f0ff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tonin-rivory-1207b5172/)          [![Email](https://img.shields.io/badge/Email-Send-orange?style=for-the-badge)](mailto:toninrvr@hotmail.com)        [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge)](https://drive.google.com/file/d/1Qr2ki8IRQmLTx6bf5Ny_5d_8E3XO8TlQ/view?usp=sharing)        [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple?style=for-the-badge)](https://toninrvr.nicepage.io/#sec-f0ff)
 
 ### GitHub Stats
 
@@ -19,31 +19,24 @@
 </div>
 
 ---
+# Projects
 
-### 🧠 Compétences clés
+Below is a curated list of Data Science and Machine Learning projects I have led or contributed to, primarily during my academic journey.
 
-- **Langages** : Python, SQL, Java
-- **Techs** : TensorFlow, PyTorch, Scikit-Learn, Git
-- **Cloud / Data** : Spark, Snowflake, Docker
-- 
-
----
-# Data Science Projects
-
-Bienvenue sur mon portfolio de projets en Data Science et Machine Learning. présente un ensemble de projets mettant en œuvre des techniques avancées d'analyse de données, de modélisation prédictive et d'optimisation dans divers domaines, notamment la finance, la santé, le traitement du langage naturel (NLP) et l'analyse de données économiques. Ces projets illustrent des approches variées pour résoudre des problématiques réelles à travers l'exploration, la visualisation et la mise en œuvre d'algorithmes.
+These projects highlight my skills in advanced data analysis, predictive modeling, and optimization across various domains such as finance, healthcare, natural language processing (NLP), and economic data analysis.
 
 
 ### 1. [Heart Attack Prediction Project](https://github.com/ton1rvr/portfolio/tree/main/Project%201%20-%20Heart%20Attack%20Prediction%20(ML%20w%3A%20python))
 
 <img align="left" width="220" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/heart.jpg">  
 
-**Objectif :** Développer un modèle prédictif permettant d'évaluer le risque d'infarctus en fonction de divers indicateurs de santé. Ce projet vise à identifier les facteurs de risque majeurs et à construire un modèle robuste permettant d'alerter les patients et les médecins sur les situations à risque.
+**Objective:** Develop a predictive model to assess the risk of heart attack based on various health indicators, in order to alert both patients and healthcare professionals of potential danger.
 
-- Analyse de corrélation entre variables médicales 
-- Réduction de dimensionnalité (PCA, LDA) 
-- Modélisation avancée : SVM (linéaire & non linéaire), Réseaux de neurones profonds 
-- **Meilleur modèle :** SVM non linéaire avec une précision de 92,1% 
-- **Visualisations :** Graphiques de corrélation, PCA, frontières de décision SVM 
+Dimensionality reduction : PCA, LDA
+
+Modelling : Built predictive models using linear & non-linear SVMs and deep neural networks
+
+Visualizations : Correlation heatmaps, PCA projections, SVM decision boundaries
 
 ---
 
