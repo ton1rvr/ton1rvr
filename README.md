@@ -8,6 +8,8 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tonin-rivory-1207b5172/)          [![Email](https://img.shields.io/badge/Email-Send-orange?style=for-the-badge)](mailto:toninrvr@hotmail.com)        [![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge)](https://drive.google.com/file/d/1Qr2ki8IRQmLTx6bf5Ny_5d_8E3XO8TlQ/view?usp=sharing)        [![Portfolio](https://img.shields.io/badge/Portfolio-View-purple?style=for-the-badge)](https://toninrvr.nicepage.io/#sec-f0ff)
 
+
+
 ### GitHub Stats
 
 <div align="left">
@@ -19,6 +21,33 @@
 </div>
 
 ---
+
+### Technicals Skills / Tools Used 
+<!-- Data Science & Analytics -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=sas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white"/>
+
+</p>
+
+---
+
 # Projects
 
 Below is a curated list of Data Science and Machine Learning projects I have led or contributed to, primarily during my academic journey.
@@ -80,7 +109,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     </tr>
   <tr>
     <td width="33%" align="center" style="vertical-align:top">
-      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%204%20-%20Volatility%20Forecasting%20for%20a%20Crypto%20Portfolio%20(ML%20w%3A%20python)">
+      <a href="https://github.com/ton1rvr/Projet-Finance-Quantitative">
         <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/crypto.jpg" width="200" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
@@ -134,7 +163,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
   </tr>
   <tr>
     <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
-      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%207%20-%20Streamlit%20App%20(w%3A%20docker%20python)">
+      <a href="https://github.com/ton1rvr/Linux-Project">
         <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/MCS.png" width="300" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
@@ -152,6 +181,42 @@ These projects highlight my skills in advanced data analysis, predictive modelin
         <strong>Visualizations:</strong> Dynamic plots, portfolio simulations, volatility heatmaps
       </p>
     </td>
+    <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
+      <a href="https://github.com/ton1rvr/Real-Time-Data-Streaming-with-Apache-Kafka-on-GCP">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/kefta.jpg" width="300" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Real-Time Big Data Streaming Platform
+        </h4>
+      </a>
+      <p align="center" style="max-width: 800px;">
+        <strong>Objective:</strong> Develop a streaming platform to track taxi trips, estimate ride fares, and perform clustering in real time.<br><br>
+        <strong>Techniques:</strong><br>
+        - Data ingestion with Python & Kafka<br>
+        - ETL with Apache NiFi<br>
+        - Real-time indexing with Elasticsearch & Kibana<br>
+        - Storage in GCS, analysis & ML with BigQuery (KMeans)<br>
+        - Stack: Kafka, NiFi, Python, Elasticsearch, BigQuery
+      </p>
+    </td>
+    <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
+      <a href="https://github.com/ton1rvr/NLP-DL-Project">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/rakuten.jpg" width="300" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          DL-NLP Product Classification (Rakuten)
+        </h4>
+      </a>
+      <p align="center" style="max-width: 800px;">
+        <strong>Objective:</strong> Predict product category codes (<code>prdtypecode</code>) from titles, descriptions, and images on Rakuten France.<br><br>
+        <strong>Techniques:</strong><br>
+        - Text preprocessing & TF-IDF + Logistic Regression baseline<br>
+        - Deep learning with TextCNN (text) and ResNet50 (images)<br>
+        - Evaluation of multimodal architectures (text + image)<br>
+        - Stack: Python, TensorFlow, Scikit-learn, CNNs
+      </p>
+    </td>
+
   </tr>
 </table>
 
