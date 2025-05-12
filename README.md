@@ -25,108 +25,135 @@ Below is a curated list of Data Science and Machine Learning projects I have led
 
 These projects highlight my skills in advanced data analysis, predictive modeling, and optimization across various domains such as finance, healthcare, natural language processing (NLP), and economic data analysis.
 
-
-### 1. [Heart Attack Prediction Project](https://github.com/ton1rvr/portfolio/tree/main/Project%201%20-%20Heart%20Attack%20Prediction%20(ML%20w%3A%20python))
-
-<img align="left" width="220" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/heart.jpg">  
-
-**Objective:** Develop a predictive model to assess the risk of heart attack based on various health indicators, in order to alert both patients and healthcare professionals of potential danger.
-
-Dimensionality reduction : PCA, LDA
-
-Modelling : Built predictive models using linear & non-linear SVMs and deep neural networks
-
-Visualizations : Correlation heatmaps, PCA projections, SVM decision boundaries
-
----
-
-### 2. [SMS Spam Filter Project](https://github.com/ton1rvr/portfolio/tree/main/Project%202%20-%20SMS%20Spam%20Filter%20(NLP%20w%3A%20python))
-
-<img align="left" width="175" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/spamm.png">  
-
-**Objectif :** Construire un filtre anti-spam efficace en utilisant des techniques de NLP et de machine learning, afin de différencier les messages légitimes des spams.
-
-- **Techniques utilisées :**
-  - Prétraitement des textes : tokenization, nettoyage, suppression des stopwords
-  - Représentation des messages avec TF-IDF pour une meilleure structuration des données textuelles
-  - Modèles de classification : Naïve Bayes, SVM, Random Forest pour comparer les performances
-- **Meilleur modèle :** Naïve Bayes, offrant un F1-score élevé sur la classe spam
-- **Visualisations :** Nuages de mots pour identifier les mots les plus fréquents, matrices de confusion pour évaluer la performance
-
-
----
-
-### 3. [NBA Salary Prediction Using Multiple Regression](https://github.com/ton1rvr/portfolio/tree/main/Project%203%20-%20NBA%20Salary%20Prediction%20(Multiple%20Reg%20w%3A%20R))
-
-<img align="left" width="200" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/nba.jpg">  
-
-**Objectif :** Prédire les salaires des joueurs NBA en fonction de leurs performances statistiques et de leur influence sur le jeu.
-
-- **Techniques utilisées :**
-  - Régressions multiples : linéaire, Ridge, Lasso, ElasticNet pour améliorer la robustesse du modèle
-  - Sélection de variables pour retenir uniquement les facteurs les plus pertinents
-- **Meilleur modèle :** Ridge Regression avec un  R² optimisé
-- **Visualisations :** Graphiques de dispersion pour observer les corrélations, coefficients des modèles pour analyser l'importance des variables
-
----
-
-### 4. [Finance Quantitative - Volatilité des Cryptos](https://github.com/ton1rvr/portfolio/tree/main/Project%204%20-%20Volatility%20Forecasting%20for%20a%20Crypto%20Portfolio%20(ML%20w%3A%20python))
-
-<img align="left" width="220"  src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/crypto.jpg">  
-
-**Objectif :** Modélisation de la volatilité des cryptomonnaies via une approche hybride combinant des modèles économétriques et de deep learning.
-
-- **Techniques utilisées :**
-  - Modélisation économétrique avec GARCH pour capturer la volatilité des marchés
-  - Réseaux neuronaux LSTM pour améliorer la prévision
-  - Optimisation de portefeuille avec le ratio de Sharpe et la CVaR
-- **Meilleur modèle :** Modèle hybride GARCH-LSTM avec une meilleure capacité de prévision
-- **Visualisations :** Comparaison des prévisions avec des données réelles, distribution de la volatilité
-
----
-
-### 5. [Scoring de crédit](https://github.com/ton1rvr/portfolio/tree/main/Project%205%20-%20Credit%20Scoring%20(ML%20w%3A%20python))
-
-<img align="left" width="300" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/scoring.jpg">  
-
-**Objectif :** Prédire le risque de défaut d'un emprunteur sur un prêt hypothécaire en utilisant des méthodes avancées d'analyse de données financières.
-
-- **Techniques utilisées :**
-  - Régression logistique avec sélection de variables via RFE
-  - Stratégies d'équilibrage des classes : SMOTE et pondération des classes
-- **Meilleur modèle :** Régression logistique avec un score AUC élevé
-- **Visualisations :** Matrice de confusion, importance des variables expliquées sous forme de graphiques
-
----
-
-### 6. [Bank Churn Prediction Project](https://github.com/ton1rvr/portfolio/tree/main/Project%206%20-%20Bank%20Churn%20Prediction%20Challenge%20(ML%20w%3A%20python))
-
-<img align="left" width="120" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/bank.jpg">  
-
-**Objectif :** Prédire le churn des clients bancaires en fonction de leurs comportements et interactions avec la banque.
-
-- **Techniques utilisées :**
-  - Feature engineering avancé pour extraire les caractéristiques les plus discriminantes
-  - Modèles de classification : Random Forest, CatBoost, XGBoost, Stacking
-- **Meilleur modèle :** CatBoost avec un AUC de 0.9330
-- **Visualisations :** Importance des features, courbes ROC pour évaluer la robustesse du modèle
-
-
-
-### 7. [Tableau de Bord Financier avec Simulaiton de Monte Carlo (App w/ Docker)](https://github.com/ton1rvr/portfolio/tree/main/Project%207%20-%20Streamlit%20App%20(w%3A%20docker%20python))
-
-<img align="left" width="200" src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/MCS.png">  
-
-**Objectif :** Développer une application interactive pour analyser des données financières en temps réel et aider à la prise de décision en investissement.
-
-**Techniques utilisées :**
-- API AlphaVantage pour récupérer des données de marché en direct
-- Visualisation interactive avec Streamlit et Plotly
-- Analyse de tendances via des modèles économétriques (GARCH, ARIMA)
-- Simulation Monte Carlo pour l'évaluation des risques
-- Stack Technique : Python, Streamlit, Docker
-- **Visualisations :** Graphiques dynamiques, simulations de portefeuilles, heatmaps de volatilité
----
+<table>
+  <tr>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%201%20-%20Heart%20Attack%20Prediction%20(ML%20w%3A%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/heart.jpg" width="200" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
+          Heart Attack Prediction
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Develop a predictive model to assess the risk of heart attack based on various health indicators, in order to alert both patients and healthcare professionals.<br><br>
+        <strong>Dimensionality reduction:</strong> PCA, LDA<br>
+        <strong>Modeling:</strong> Linear & non-linear SVMs, Deep Neural Networks<br>
+        <strong>Visualizations:</strong> Correlation heatmaps, PCA projections, SVM decision boundaries
+      </p>
+    </td>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%202%20-%20SMS%20Spam%20Filter%20(NLP%20w%3A%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/spamm.png" width="200" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
+          SMS Spam Filter
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Build an effective SMS spam filter using NLP and machine learning techniques.<br><br>
+        <strong>Techniques:</strong><br>
+        - Text preprocessing (tokenization, cleaning, stopword removal)<br>
+        - TF-IDF vectorization<br>
+        - Models: Naïve Bayes, SVM, Random Forest<br>
+        <strong>Best model:</strong> Naïve Bayes (high F1-score)<br>
+        <strong>Visualizations:</strong> Word clouds, confusion matrices
+      </p>
+    </td>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%203%20-%20NBA%20Salary%20Prediction%20(Multiple%20Reg%20w%3A%20R)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/nba.jpg" width="200" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
+          NBA Salary Prediction
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Predict NBA player salaries based on performance statistics and game impact.<br><br>
+        <strong>Techniques:</strong><br>
+        - Multiple regression models: Linear, Ridge, Lasso, ElasticNet<br>
+        - Feature selection to retain relevant variables<br>
+        <strong>Best model:</strong> Ridge Regression (optimized R²)<br>
+        <strong>Visualizations:</strong> Scatter plots, model coefficient analysis
+      </p>
+    </td>
+    </tr>
+  <tr>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%204%20-%20Volatility%20Forecasting%20for%20a%20Crypto%20Portfolio%20(ML%20w%3A%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/crypto.jpg" width="200" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Crypto Volatility Forecast
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Model cryptocurrency volatility using a hybrid econometric and deep learning approach.<br><br>
+        <strong>Techniques:</strong><br>
+        - GARCH models for volatility estimation<br>
+        - LSTM neural networks for sequence forecasting<br>
+        - Portfolio optimization via Sharpe ratio and CVaR<br>
+        <strong>Best model:</strong> GARCH-LSTM hybrid<br>
+        <strong>Visualizations:</strong> Forecast vs actual comparison, volatility distributions
+      </p>
+    </td>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%205%20-%20Credit%20Scoring%20(ML%20w%3A%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/scoring.jpg" width="200" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Credit Scoring
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Predict mortgage default risk using advanced financial data analysis.<br><br>
+        <strong>Techniques:</strong><br>
+        - Logistic regression with RFE for feature selection<br>
+        - Class balancing with SMOTE and class weights<br>
+        <strong>Best model:</strong> Logistic regression with high AUC score<br>
+        <strong>Visualizations:</strong> Confusion matrix, feature importance plots
+      </p>
+    </td>
+    <td width="33%" align="center" style="vertical-align:top">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%206%20-%20Bank%20Churn%20Prediction%20Challenge%20(ML%20w%3A%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/bank.jpg" width="180" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Bank Churn Prediction
+        </h4>
+      </a>
+      <p align="left">
+        <strong>Objective:</strong> Predict bank customer churn based on behavioral data.<br><br>
+        <strong>Techniques:</strong><br>
+        - Advanced feature engineering<br>
+        - Models: Random Forest, CatBoost, XGBoost, Stacking<br>
+        <strong>Best model:</strong> CatBoost with AUC = 0.9330<br>
+        <strong>Visualizations:</strong> Feature importance, ROC curves
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
+      <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%207%20-%20Streamlit%20App%20(w%3A%20docker%20python)">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/MCS.png" width="300" style="border-radius: 10px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Financial Dashboard with Monte Carlo Simulation
+        </h4>
+      </a>
+      <p align="center" style="max-width: 800px;">
+        <strong>Objective:</strong> Build an interactive dashboard to analyze real-time financial data and support investment decisions.<br><br>
+        <strong>Techniques:</strong><br>
+        - Real-time market data with AlphaVantage API<br>
+        - Interactive visualizations with Streamlit & Plotly<br>
+        - Trend analysis with GARCH & ARIMA<br>
+        - Monte Carlo simulation for risk analysis<br>
+        - Stack: Python, Streamlit, Docker<br>
+        <strong>Visualizations:</strong> Dynamic plots, portfolio simulations, volatility heatmaps
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 📬 *N’hésite pas à me contacter pour discuter IA, projets data ou collaborations !*
