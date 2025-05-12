@@ -54,11 +54,11 @@ Below is a curated list of Data Science and Machine Learning projects I have led
 
 These projects highlight my skills in advanced data analysis, predictive modeling, and optimization across various domains such as finance, healthcare, natural language processing (NLP), and economic data analysis.
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="33%" align="center" style="vertical-align:top">
+    <td width="33%" align="center" style="vertical-align:top; border: none;">
       <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%201%20-%20Heart%20Attack%20Prediction%20(ML%20w%3A%20python)">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/heart.jpg" width="200" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/heart.jpg" width="100%" /><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
           Heart Attack Prediction
@@ -71,9 +71,9 @@ These projects highlight my skills in advanced data analysis, predictive modelin
         <strong>Visualizations:</strong> Correlation heatmaps, PCA projections, SVM decision boundaries
       </p>
     </td>
-    <td width="33%" align="center" style="vertical-align:top">
+    <td width="33%" align="center" style="vertical-align:top; border: none;">
       <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%202%20-%20SMS%20Spam%20Filter%20(NLP%20w%3A%20python)">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/spamm.png" width="200" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/spamm.png" width="100%"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
           SMS Spam Filter
@@ -89,9 +89,9 @@ These projects highlight my skills in advanced data analysis, predictive modelin
         <strong>Visualizations:</strong> Word clouds, confusion matrices
       </p>
     </td>
-    <td width="33%" align="center" style="vertical-align:top">
+    <td width="33%" align="center" style="vertical-align:top; border: none;">
       <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%203%20-%20NBA%20Salary%20Prediction%20(Multiple%20Reg%20w%3A%20R)">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/nba.jpg" width="200" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/nba.jpg" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15"/>
           NBA Salary Prediction
@@ -110,7 +110,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
   <tr>
     <td width="33%" align="center" style="vertical-align:top">
       <a href="https://github.com/ton1rvr/Projet-Finance-Quantitative">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/crypto.jpg" width="200" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/crypto.jpg" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           Crypto Volatility Forecast
@@ -128,7 +128,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     </td>
     <td width="33%" align="center" style="vertical-align:top">
       <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%205%20-%20Credit%20Scoring%20(ML%20w%3A%20python)">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/scoring.jpg" width="200" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/scoring.jpg" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           Credit Scoring
@@ -145,7 +145,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     </td>
     <td width="33%" align="center" style="vertical-align:top">
       <a href="https://github.com/ton1rvr/portfolio/tree/main/Project%206%20-%20Bank%20Churn%20Prediction%20Challenge%20(ML%20w%3A%20python)">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/bank.jpg" width="180" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/bank.jpg" width="100%" style="border-radius: 0px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           Bank Churn Prediction
@@ -164,7 +164,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
   <tr>
     <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
       <a href="https://github.com/ton1rvr/Linux-Project">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/MCS.png" width="300" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/MCS.png" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           Financial Dashboard with Monte Carlo Simulation
@@ -183,7 +183,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     </td>
     <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
       <a href="https://github.com/ton1rvr/Real-Time-Data-Streaming-with-Apache-Kafka-on-GCP">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/kefta.jpg" width="300" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/kefta.jpg" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           Real-Time Big Data Streaming Platform
@@ -201,7 +201,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     </td>
     <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
       <a href="https://github.com/ton1rvr/NLP-DL-Project">
-        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/rakuten.jpg" width="300" style="border-radius: 10px;"/><br>
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/rakuten.jpg" width="100%" style="border-radius: 10px;"/><br>
         <h4>
           <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
           DL-NLP Product Classification (Rakuten)
@@ -214,6 +214,25 @@ These projects highlight my skills in advanced data analysis, predictive modelin
         - Deep learning with TextCNN (text) and ResNet50 (images)<br>
         - Evaluation of multimodal architectures (text + image)<br>
         - Stack: Python, TensorFlow, Scikit-learn, CNNs
+      </p>
+    </td>
+ </tr>
+    <tr>
+        <td width="33%" align="center" style="vertical-align:top; padding-top: 40px;">
+      <a href="https://github.com/ton1rvr/Scala-Project">
+        <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/scala.jpg" width="100%" style="border-radius: 0px;"/><br>
+        <h4>
+          <img src="https://img.shields.io/badge/-black?style=flat&logo=github&logoColor=white" height="15"/>
+          Modular Data Pipeline in Scala & Spark
+        </h4>
+      </a>
+      <p align="center" style="max-width: 800px;">
+        <strong>Objective:</strong> Build a flexible CLI-based data processing tool in Scala using Apache Spark.<br><br>
+        <strong>Techniques:</strong><br>
+        - Read/write in CSV, Parquet, or Hive format<br>
+        - Customizable report types via CLI (report1–3)<br>
+        - JAR execution with config file support<br>
+        - Stack: Scala, Spark, sbt, CLI
       </p>
     </td>
 
