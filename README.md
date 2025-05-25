@@ -14,7 +14,7 @@
 
 <div align="left">
 
-![Xyv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton1rvr&show_icons=true&theme=default&hide=prs)
+![Tonin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton1rvr&show_icons=true&theme=default&hide=prs)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton1rvr&layout=compact&hide=html)
 
