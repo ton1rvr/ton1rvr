@@ -230,6 +230,7 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     - Stack: Python, TensorFlow, Scikit-learn, CNNs
   </p>
 </td>
+
 </tr>
 <tr>
 
@@ -253,7 +254,31 @@ These projects highlight my skills in advanced data analysis, predictive modelin
     - Stack: Scala, Spark, sbt, CLI
   </p>
 </td>
+
+<td width="33%" valign="top" style="vertical-align:top; border: none;">
+  <img src="https://github.com/ton1rvr/portfolio/blob/main/assets/img/IFRS.png" width="100%" /><br>
+  <h4 style="margin-top: 10px; text-align: left;">
+    <a href="https://github.com/ton1rvr/Credit-Risk-Project">
+      <img src="https://img.shields.io/badge/-black?logo=github&logoColor=white" height="15" style="margin-left: 6px; position: relative; top: 2px;"/>
+    </a>
+    <a href="https://github.com/ton1rvr/Credit-Risk-Project" style="text-decoration: none; color: black;">
+      Forward-Looking CCF – IFRS9 Modeling
+    </a>
+    
+  </h4>
+  <p align="left">
+    <strong>Objective:</strong> Estimate a macro-sensitive CCF to forecast IFRS9 EAD over 3 years. <br><br>
+    <strong>Techniques:</strong><br>
+- Stationarity analysis (ADF) and time series transformation for OLS assumptions <br>
+- Integration of macroeconomic variables for Forward-Looking modeling (GDP, inflation, unemployment, real estate) <br>
+- Modeling: Huber, PLS, Random Forest, Weighted Linear Regression (WLS) <br>
+- Scenario-based projections: optimistic, central, pessimistic
+  </p>
+</td>
+
   </tr>
+
+  
 </table>
 
 
